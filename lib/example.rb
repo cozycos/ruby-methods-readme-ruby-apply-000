@@ -12,4 +12,4 @@ puts phrase
 puts phrase
 end
 
-"Hello World"
+say_hello_world_ten_times
